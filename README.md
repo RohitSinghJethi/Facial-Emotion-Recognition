@@ -99,9 +99,7 @@ pip install tensorflow numpy matplotlib pillow
 Predictions may be affected by lighting, image quality, facial pose, and dataset diversity. Facial expressions do not necessarily indicate a person's actual emotional state.
 
 ## Author
-
 Rohit Jethi
 
-## License
 
 Add a suitable license if you intend to distribute this project.
