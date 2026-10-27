@@ -79,6 +79,8 @@ pip install tensorflow numpy matplotlib pillow
 4. Run the notebook cells in order.
 5. Train and evaluate the model.
 6. Save the trained model and class names.
+7. Run app.py locally.
+8. A web interface using Streamlit will open .
 
 ## Output Files
 
@@ -90,7 +92,6 @@ pip install tensorflow numpy matplotlib pillow
 ## Future Improvements
 
 - Real-time emotion recognition using a webcam
-- A web interface using Streamlit or Gradio
 - Evaluation using a confusion matrix, precision, and recall
 - Deployment as a web application
 
