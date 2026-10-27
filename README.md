@@ -79,7 +79,7 @@ pip install tensorflow numpy matplotlib pillow
 4. Run the notebook cells in order.
 5. Train and evaluate the model.
 6. Save the trained model and class names.
-7. Run app.py locally.
+7. Run app.py locally in terminal
 8. A web interface using Streamlit will open .
 
 ## Output Files
