@@ -80,7 +80,7 @@ pip install tensorflow numpy matplotlib pillow
 5. Train and evaluate the model.
 6. Save the trained model and class names.
 7. Run app.py locally in terminal
-8. A web interface using Streamlit will open .
+8. A web interface created using Streamlit will open .
 
 ## Output Files
 
